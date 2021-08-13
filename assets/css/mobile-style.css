@@ -267,7 +267,7 @@ p{
   z-index: 3;
 /*   -webkit-animation:linear infinite alternate; */
   -webkit-animation-name: run;
-  -webkit-animation-duration: 5s;
+/*   -webkit-animation-duration: 5s; */
 }
 /* }
 #hero-text{
