@@ -5,6 +5,15 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="viewport" content="width=1500px, maximum-scale=1.0" />
+  <script type="text/javascript">
+    var url = window.location.pathname;
+  var filename = url.substring(url.lastIndexOf('/')+1);
+  var mobilePage = 'mobile.html';
+
+  if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|OperaMini/i.test(navigator.userAgent) && filename !== mobilePage ) {
+    document.location = mobilePage;
+  }
+  </script>
 
 
 
