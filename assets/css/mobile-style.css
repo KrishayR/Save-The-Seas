@@ -255,9 +255,14 @@ p{
 --------------------------------------------------------------*/
 #hero {
   background: url("../img/mobilebg.png") no-repeat center center fixed;
-  background-repeat:no-repeat;
-  background-size: 100% 100%;
-  background-position:center;
+     background-repeat: no-repeat;
+    background-position: 0px 0px;
+    box-shadow: none;
+    background-color: transparent;
+    z-index: 90000;
+    -moz-appearace:none;
+    -webkit-appearace:none;
+    appearace:none;
 }
 /* }
 #hero-text{
