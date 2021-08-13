@@ -259,7 +259,7 @@ p{
   position: relative;
   top: 0;
   left: 0;
-  background: url("../img/mobilebg.png") no-repeat center center fixed;
+  background: url("../img/mobilebg.png")!important no-repeat center center fixed;
   background-repeat: no-repeat;
    background-position: center center;
     background-attachment: fixed;
