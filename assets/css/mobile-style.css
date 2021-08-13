@@ -253,7 +253,7 @@ p{
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
-#hero {
+/* #hero {
   width: 100%;
   height: 100vh;
   position: relative;
@@ -268,7 +268,7 @@ p{
   -webkit-animation-name: run;
   -webkit-animation-duration: 5s;
   z-index: 3;
-}
+} */
 /* }
 #hero-text{
   color: white;
