@@ -259,14 +259,16 @@ p{
   position: relative;
   top: 0;
   left: 0;
-  background: url("../img/mobilebg.png")!important no-repeat center center fixed;
-  background-repeat: no-repeat;
-   background-position: center center;
-    background-attachment: fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-  background-size: 100%;
+  background: url("../img/blue-to-pink.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  -webkit-animation:linear infinite alternate;
+  -webkit-animation-name: run;
+  -webkit-animation-duration: 5s;
+  z-index: 3;
+
 } 
 
 /* #hero-text{
