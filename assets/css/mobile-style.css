@@ -264,9 +264,6 @@ p{
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  -webkit-animation:linear infinite alternate;
-  -webkit-animation-name: run;
-  -webkit-animation-duration: 5s;
   z-index: 3;
 
 } 
