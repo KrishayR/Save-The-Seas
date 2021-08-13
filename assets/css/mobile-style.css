@@ -260,7 +260,7 @@ p{
   top: 0;
   left: 0;
   background: url("../img/mobilebg.png") no-repeat center center fixed;
-  -webkit-background-size: cover;
+/*   -webkit-background-size: cover; */
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
