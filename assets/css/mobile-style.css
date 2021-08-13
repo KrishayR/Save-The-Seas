@@ -255,14 +255,15 @@ p{
 --------------------------------------------------------------*/
 #hero {
   background: url("../img/mobilebg.png") no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  z-index: 3;
+  background-repeat: no-repeat;
+   background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 } 
-/* }
-#hero-text{
+
+/* #hero-text{
   color: white;
   position: absolute;
   left: 0;
