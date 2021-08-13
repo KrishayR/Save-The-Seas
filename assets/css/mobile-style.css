@@ -271,24 +271,14 @@ p{
 
 } 
 
-/* #hero-text{
-  color: white;
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 500px;
-  margin: 0 auto;
-  max-width: 600px;
-}
-
 .hero-img{
     position: relative;
     object-fit: scale-down;
     z-index: 1;
-    width:  1300px;
-    margin-left:-100px;
+    width:  1500px;
+    margin-left:-250px;
     display: inline-flex;
-    height: 1300px;
+    height: 900px;
     object-fit: cover;
 }
 
@@ -300,7 +290,7 @@ p{
   height: 150px
   display: inline-flex;
   object-fit: cover;
-} */
+}
 @media (min-width: 992px) {
   #hero {
     padding-left: 160px;
