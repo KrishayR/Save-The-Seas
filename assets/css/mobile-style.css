@@ -260,14 +260,11 @@ p{
   top: 0;
   left: 0;
   background: url("../img/mobilebg.png") no-repeat center center fixed;
-/*   -webkit-background-size: cover; */
+  -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
   z-index: 3;
-/*   -webkit-animation:linear infinite alternate; */
-/*   -webkit-animation-name: run; */
-/*   -webkit-animation-duration: 5s; */
 }
 /* }
 #hero-text{
