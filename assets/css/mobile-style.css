@@ -266,7 +266,8 @@ p{
   -webkit-animation:linear infinite alternate;
   -webkit-animation-name: run;
   -webkit-animation-duration: 5s;
-  z-index: 3;   
+  z-index: 3;
+  overscroll-behavior: none;
   background: url(../img/mobilebg.png) no-repeat center center;
 }
 /* }
