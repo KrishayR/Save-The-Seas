@@ -10,3 +10,6 @@ Please check it out if you have time, I really hope you read through it and lear
 
 This is not neccesary, but I would also really appreciate it if anyone would buy a SaveTheSeas puzzle! (Bottom of the site) All of the proceeds made by that campaign will go straight to a charity dedicated to saving wildlife in the seas.
 
+
+
+(I recommend using a desktop device when viewing the site)
