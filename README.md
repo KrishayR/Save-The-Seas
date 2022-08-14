@@ -7,4 +7,6 @@ helpsavetheseas.com
 
 This is an informative website that I made with HTML, CSS, and JavaScript about the huge negative effects of high sea fishing. I talked about bycatch, bottom trawling, how the food chain works, and how we can help save the oceans. 
 
-Please check it out if you have time, and I would really appreciate it if anyone would buy a SaveTheSeas puzzle! All of the proceeds made by that campaign will go straight to a charity dedicated to saving wildlife in the seas.
+Please check it out if you have time, I really hope you read through it and learn something!
+
+This is not neccesary, but I would also really appreciate it if anyone would buy a SaveTheSeas puzzle! (Bottom of the site) All of the proceeds made by that campaign will go straight to a charity dedicated to saving wildlife in the seas.
